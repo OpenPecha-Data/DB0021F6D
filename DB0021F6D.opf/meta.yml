@@ -1,0 +1,22 @@
+id: DB0021F6D
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2021-12-31T06:58:53+00:00'
+last_modified: '2022-05-26T12:01:38.423630+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    d5fd:
+      image_group_id: I1PD95881
+      title: རྡོ་རྗེ་རྣམ་པར་འཇོམས་པ་ཞེས་བྱ་བའི་གཟུངས་ཀྱི་བཤད་པ།
+      total_pages: 1869
+      order: 36
+      base_file: d5fd.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
